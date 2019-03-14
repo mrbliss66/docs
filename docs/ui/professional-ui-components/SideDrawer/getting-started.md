@@ -20,7 +20,7 @@ tns plugin add nativescript-ui-sidedrawer
 ```
 
 ## Adding RadSideDrawer to your page
-Then, in order to add a {% typedoc_link classes:RadCalendar %} instance in a page of your application, you need to define the following XML namespace:
+Then, in order to add a {% typedoc_link classes:RadSideDrawer %} instance in a page of your application, you need to define the following XML namespace:
 
 - `xmlns:nsDrawer="nativescript-ui-sidedrawer"`.
 
